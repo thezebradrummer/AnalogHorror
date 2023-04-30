@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Maurice/Documents/Unreal Projects/AnalogHorror/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Maurice/Documents/Unreal Projects/AnalogHorror/Content/Assets/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Maurice/Documents/Unreal Projects/AnalogHorror/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
